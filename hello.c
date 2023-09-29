@@ -1,6 +1,6 @@
 # include<stdio.h>
 
 int main() {
-    printf("I Quit!!!");
+    printf("I Never Quit!!!");
     return 0;
 }
